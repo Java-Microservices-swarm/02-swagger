@@ -3,7 +3,7 @@ package hu.javalife.heroesofempires.hero;
 /**
  * @author krisztian
  */
-public class Hero {
+public class HeroDataModel {
     private long id;
     private String name, description;
 
