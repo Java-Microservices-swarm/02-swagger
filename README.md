@@ -6,6 +6,9 @@ Hero service &amp; Open API
 - Use Swagger UI
 - Viewmodel
 
+## Patterns
+- (Data)TransferObject [dto](http://www.oracle.com/technetwork/java/transferobject-139757.html)
+
 ## Specifications
 - OPEN API [about](https://www.openapis.org/about)
 - Swagger[official page](https://swagger.io/)
